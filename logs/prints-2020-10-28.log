@@ -1,0 +1,7 @@
+23:59:19.828 [TestNG-tests-1] INFO  resources.base - Driver need to initialize
+23:59:29.162 [TestNG-tests-1] TRACE resources.base - Driver initialized
+23:59:29.162 [TestNG-tests-1] INFO  resources.base - Driver need to initialize
+23:59:40.121 [TestNG-tests-1] INFO  resources.base - Driver initialized
+23:59:40.135 [TestNG-tests-1] INFO  resources.base - LoginPage instance is created
+23:59:43.142 [TestNG-tests-1] INFO  resources.base - Button clicked
+23:59:46.984 [TestNG-tests-1] INFO  resources.base - Button clicked

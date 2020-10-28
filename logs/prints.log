@@ -1,0 +1,5 @@
+23:59:46.997 [TestNG-tests-1] INFO  resources.base - New Customer link is clicked
+23:59:54.363 [TestNG-tests-1] INFO  resources.base - Datas are filled insode the fields
+00:00:01.465 [TestNG-tests-1] INFO  resources.base - Add Customer data tests are passed
+00:00:01.517 [TestNG-tests-1] INFO  resources.base - Browser is closed
+00:00:01.622 [TestNG-tests-1] INFO  resources.base - Driver is closed
